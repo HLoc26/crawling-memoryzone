@@ -37,7 +37,8 @@ class Page:
         self.index: int = index
         self.items: list[Item] = []
     def AddItem(self, item: list[Item]):
-        self.items.append(item)
+        for i in item:
+            self.items.append(i)
     def GetItemCount(self):
         return len(self.items)
 
