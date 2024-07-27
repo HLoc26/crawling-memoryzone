@@ -77,6 +77,8 @@ def main():
         sleep(5)
         link = driver.current_url
         print(link)
+        collections.append(GetItemCollection(link))
+
 
 
 if __name__ == "__main__":
