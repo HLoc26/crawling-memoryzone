@@ -31,7 +31,12 @@ This project is designed to scrape product information from [Memoryzone](https:/
    ```
 
 4. **Download and set up the Edge WebDriver:**
+
    Ensure you have the Microsoft Edge browser installed. Download the Edge WebDriver that matches your browser version from [here](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/). Add the WebDriver to your system PATH.
+
+   In case you use another browser, in `main.py`, change line `10` from `driver = webdriver.Edge()` to `driver = webdriver.<YourBrowser>()`
+
+   Check [here](https://www.selenium.dev/documentation/webdriver/browsers/) to see if your browser is supported by Selenium and [here](https://selenium-python.readthedocs.io/installation.html#drivers) for more information.
 
 ## Usage
 
