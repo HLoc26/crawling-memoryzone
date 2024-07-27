@@ -38,6 +38,8 @@ class Page:
         self.items: list[Item] = []
     def AddItem(self, item: list[Item]):
         self.items.append(item)
+    def GetItemCount(self):
+        return len(self.items)
 
 class Collection:
     pages = list[Page]
@@ -46,3 +48,8 @@ class Collection:
         self.pages: list[Page] = []
     def AddPage(self, page: Page):
         self.pages.append(page)
+    def GetPageCount(self):
+        count = 0
+        for page in self.pages:
+            count += page.GetItemCount()
+        return count
