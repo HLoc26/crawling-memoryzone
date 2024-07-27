@@ -144,6 +144,12 @@ def ToJSON(collections: list):
         df = collection.ToDataFrame()
         with open(f'./JSON/{FormatTitle(title)}.json', 'w', encoding='utf-8') as file:
             df.to_json(file, force_ascii=False, orient='index')
+def ToCSV(collections: list):
+    for collection in collections:
+        title = collection.title
+        # print(title, FormatTitle(title))
+        df = collection.ToDataFrame()
+        df.to_csv(f'./CSV/{FormatTitle(title)}.csv', sep='\t', encoding='utf-8', header=True, index=False)
 
 def main():
     link_collections = GetCollectionLinks()
@@ -156,6 +162,7 @@ def main():
         # print(link)
         collections.append(GetItemCollection(link))
         ToJSON(collections)
+        ToCSV(collections)
     count = 0
     for collection in collections:
         count += collection.GetPageCount()
