@@ -31,6 +31,11 @@ class Page:
     def __init__(self, index: int) -> None:
         self.index: int = index
         self.items: list[Item] = []
+    def __repr__(self) -> str:
+        info = ""
+        for item in self.items:
+            info += str(item) + "\n"
+        return info
     def AddItem(self, item: list[Item]):
         for i in item:
             self.items.append(i)
@@ -42,6 +47,11 @@ class Collection:
     def __init__(self, title: str) -> None:
         self.title = title
         self.pages: list[Page] = []
+    def __repr__(self) -> str:
+        info = ""
+        for page in self.pages:
+            info += str(page) + "\n"
+        return info
     def AddPage(self, page: Page):
         self.pages.append(page)
     def GetPageCount(self):
