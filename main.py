@@ -70,6 +70,12 @@ def main():
         link = type.get_attribute("href")
         if link not in link_product:
             link_product.append(link)
+    if not link_product:
+        product_types = driver.find_elements(By.CSS_SELECTOR, ".collections-slide  [href]")
+        for type in product_types:
+            link = type.get_attribute("href")
+            if link not in link_product:
+                link_product.append(link)
     collections = []
     for link in link_product[1:3]:
         driver.get(link)
@@ -78,8 +84,6 @@ def main():
         link = driver.current_url
         print(link)
         collections.append(GetItemCollection(link))
-
-
 
 if __name__ == "__main__":
     main()
