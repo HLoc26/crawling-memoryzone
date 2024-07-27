@@ -31,12 +31,11 @@ def GetItemInfoInPage(page: int) -> list[object]: # [[item1], [item2], [item3]]
     price_box_elems = driver.find_elements(By.CSS_SELECTOR, ".price-box")
     original_prices = []
     for elem in price_box_elems:
-        try:
-            text = driver.find_element(By.CSS_SELECTOR, ".compare-price").text
-            original_prices.append(text)
-        except NoSuchElementException:
+        price_box_child = elem.find_elements(By.XPATH, "*")
+        if len(price_box_child) == 1:
             original_prices.append("")
-            
+        else:
+            original_prices.append(price_box_child[1].text)
     # === Get link ===
     link_elems = driver.find_elements(By.CSS_SELECTOR, ".product-name [href]")
     links = []
@@ -49,7 +48,7 @@ def GetItemInfoInPage(page: int) -> list[object]: # [[item1], [item2], [item3]]
     rating_elems = driver.find_elements(By.CSS_SELECTOR, ".aer-review-result")
     for elem in rating_elems:
         stars = elem.find_elements(By.XPATH, ".//span[@class='aer-star-active']")
-        print(stars)
+        # print(stars)
         ratings.append(len(stars))
     # print(ratings)
     # === Get rate count ===
@@ -82,7 +81,7 @@ def GetItemCollection(link: str) -> Collection:
     # Get items in every other page
     pages = driver.find_elements(By.CSS_SELECTOR, ".page-item")
     pages_count = len(pages) # Count number of pages: get all class .page-item count then - 2 (2 arrows)
-    print(f"PAGE COUNT: {pages_count}")
+    # print(f"PAGE COUNT: {pages_count}")
     # Find the start of the ? in the url (parameters)
     pos = 26
     while pos < len(link):
@@ -92,7 +91,7 @@ def GetItemCollection(link: str) -> Collection:
     # Start traversing through pages
     for i in range(2, pages_count - 1):
         link = link[:pos+1] + "page=" + str(i) 
-        print(link)
+        # print(link)
         driver.get(link)
         sleep(2)
         page = Page(i)
@@ -119,20 +118,19 @@ def GetCollectionLinks() -> list[str]:
 
 def main():
     link_collections = GetCollectionLinks()
-    # collections = []
-    # for link in link_collections[1:]:
-    #     driver.get(link)
-    #     print(link)
-    #     sleep(5)
-    #     link = driver.current_url
-    #     print(link)
-    #     collections.append(GetItemCollection(link))
-    # count = 0
-    # for collection in collections:
-    #     count += collection.GetPageCount()
-    # print(count)
-
-    driver.get(link_collections[1])
+    collections = []
+    for link in link_collections[1:2]:
+        driver.get(link)
+        # print(link)
+        sleep(5)
+        link = driver.current_url
+        # print(link)
+        collections.append(GetItemCollection(link))
+    count = 0
+    for collection in collections:
+        count += collection.GetPageCount()
+    print(count)
+    print(collections[0].pages[0].items)
 
 if __name__ == "__main__":
     main()
