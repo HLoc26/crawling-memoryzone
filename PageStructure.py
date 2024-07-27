@@ -1,12 +1,11 @@
 class Item:
-    def __init__(self, name, curr_price, original_price, link, rating, rate_count, feat) -> None:
+    def __init__(self, name, curr_price, original_price, link, rating, rate_count) -> None:
         self.name = name
         self.curr_price = curr_price
         self.original_price = original_price
         self.link = link
         self.rating = rating
         self.rate_count = rate_count
-        self.feat = feat
     def __str__(self) -> str:
         if self.original_price == "":
             original = "Not on discount"
@@ -15,8 +14,7 @@ class Item:
         features = '\t'.join(self.feat)
         info =  f"Item name: {self.name}\nCurrent price: {self.curr_price}\n" + \
                 f"Origianl price: {original}\nLink: {self.link}\n" + \
-                f"Rating: {self.rating}\nRate Count: {self.rate_count}\n" + \
-                f"Features: \n\t{features}"
+                f"Rating: {self.rating}\nRate Count: {self.rate_count}\n"
         return info
 
     def __repr__(self) -> str:
