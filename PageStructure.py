@@ -25,8 +25,7 @@ class Item:
         features = '\t'.join(self.feat)
         info =  f"\nItem name: {self.name}\nCurrent price: {self.curr_price}\n" + \
                 f"Origianl price: {original}\nLink: {self.link}\n" + \
-                f"Rating: {self.rating}\nRate Count: {self.rate_count}\n" + \
-                f"Features: \n\t{features}\n"
+                f"Rating: {self.rating}\nRate Count: {self.rate_count}\n"
         return info
 
 class Page:
