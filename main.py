@@ -3,39 +3,42 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 from PageStructure import Item, Page, Collection
+
 '''define driver'''
 driver = webdriver.Edge()
 url = 'https://memoryzone.com.vn/'
 driver.get(url)
 
+def GetText(elems: list) -> list:
+    res = []
+    for elem in elems:
+        res.append(elem.text)
+    return res
+
 def GetItemInfoInPage(page: int) -> list[object]: # [[item1], [item2], [item3]]
     items = []
     # Get name
     names_elems = driver.find_elements(By.CSS_SELECTOR, ".product-name")
-    names = []
-    for elem in names_elems:
-        names.append(elem.text)
-    print(names)
+    names = GetText(names_elems)
+    # print(names)
     # Get current price (discounted price)
     curr_prices_elems = driver.find_elements(By.CSS_SELECTOR, ".price")
-    curr_prices = []
-    for elem in names_elems:
-        curr_prices.append(elem.text)
-    print(curr_prices)
+    curr_prices = GetText(curr_prices_elems)
+    # print(curr_prices)
     # Get original price (before discount)
+    '''TODO: Some product does not have discount'''
     original_price_elems = driver.find_elements(By.CSS_SELECTOR, ".compare-price")
-    original_prices = []
-    for elem in names_elems:
-        curr_prices.append(elem.text)
-    print(original_prices)
+    original_prices = GetText(original_price_elems)
+    # print(original_prices)
     # Get link
     link_elems = driver.find_elements(By.CSS_SELECTOR, ".product-name [href]")
     links = []
     for elem in link_elems:
         link = elem.get_attribute("href").strip()
         links.append(link)
-    print(links)
+    # print(links)
     print(f"names: {len(names)} | cur: {len(curr_prices)} | ori: {len(original_prices)} | links: {len(links)}")
+    assert len(names) == len(curr_prices) == len(original_prices) == len(links), "ERROR: len not match"
     for i in range(len(names)):
         item = Item(name=names[i],\
                     curr_price=curr_prices[i], \
