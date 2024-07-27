@@ -1,0 +1,802 @@
+{
+  "0": {
+    "Name": "Laptop Gaming ASUS TUF Gaming A15 FA507NUR-LP101W (Ryzen 7 7435HS, RTX 4050 6GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz 100% sRGB, Win 11)",
+    "Current price": "Liên hệ",
+    "Original price": "Not on discount",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-asus-tuf-gaming-a15-fa507nur-lp101w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "1": {
+    "Name": "Laptop Lenovo Yoga Slim 7 14Q8X9 (Snapdragon X Elite X1E-78-100, Adreno, RAM 32GB LPDDR5X, SSD 1TB, 14.5 Inch OLED 3K 90Hz, 100% DCI-P3)",
+    "Current price": "Liên hệ",
+    "Original price": "Not on discount",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-yoga-slim-7-14q8x9",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "2": {
+    "Name": "Laptop Lenovo ThinkPad X13S GEN 1 21BX0017VN (Snapdragon 8cx Gen 3, Adreno 690, RAM 16GB LPDDR4X, SSD 512GB, 13.3 Inch IPS WUXGA 60Hz 100% sRGB)",
+    "Current price": "Liên hệ",
+    "Original price": "Not on discount",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-x13s-gen-1-21bx0017vn-qualcomm-snapdragon-8cx-gen-3",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "3": {
+    "Name": "Laptop HP 14s-dq5122TU 8W356PA (i3-1215U, UHD Graphics, RAM 8GB DDR4, SSD 256GB, 14 Inch FHD 60Hz, Win 11)",
+    "Current price": "9.990.000 VND",
+    "Original price": "10.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-15s-dq5122tu-8w356pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "4": {
+    "Name": "Laptop Acer Aspire 3 A314-23M-R4TX (Ryzen 5 7520U, Radeon Graphics, RAM 8GB LPDDR5, SSD 512GB, 14 Inch IPS FHD 60Hz 100% sRGB, Win 11)",
+    "Current price": "10.490.000 VND",
+    "Original price": "13.290.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-acer-aspire-3-a314-23m-r4tx",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "5": {
+    "Name": "Laptop Lenovo V14 G3 IAP 82TS005YVN (i5-1235U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD, Win 11)",
+    "Current price": "10.990.000 VND",
+    "Original price": "13.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-v14-g3-iap-82ts005yvn",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "6": {
+    "Name": "Laptop Asus Vivobook 15 X1504VA-NJ069W (i3-1315U, UHD Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "11.090.000 VND",
+    "Original price": "13.690.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15-x1504va-nj069w",
+    "Rating": 5,
+    "Rate Count": 3
+  },
+  "7": {
+    "Name": "Laptop Lenovo Ideapad Slim 3 14IAH8 83EQ0004VN (i5-12450H, UHD Graphics, RAM 8GB LPDDR5, SSD 512GB, 14.0 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "11.990.000 VND",
+    "Original price": "14.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-3-14iah8-83eq0004vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "8": {
+    "Name": "Laptop HP 240 G9 6L1X5PA (i3-1215U, UHD Graphics, Ram 4GB DDR4, SSD 256GB, 14 Inch IPS FHD 60Hz)",
+    "Current price": "11.990.000 VND",
+    "Original price": "12.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-240-g9-6l1x5pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "9": {
+    "Name": "Laptop Dell Inspiron 15 3530 N3530-i3U085W11BLU (i3-1305U, UHD Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 120Hz FHD, Win11/Office HS 21)",
+    "Current price": "11.990.000 VND",
+    "Original price": "16.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-inspiron-15-3530-n3530-i3u085w11blu",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "10": {
+    "Name": "Laptop Lenovo V14 G4 IRU 83A0A09KVN (i5-13420H, UHD Graphics, RAM 16GB DDR4, SSD 512GB, 14 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "12.990.000 VND",
+    "Original price": "13.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-v14-g4-iru-83a0a09kvn",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "11": {
+    "Name": "Laptop MSI Modern 14 C12MO-660VN (i5-1235U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 14 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "12.990.000 VND",
+    "Original price": "14.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-modern-14-c12mo-660vn",
+    "Rating": 5,
+    "Rate Count": 2
+  },
+  "12": {
+    "Name": "Laptop Lenovo V15 G4 IRU 83A10006VN (i5-1335U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD, Win 11)",
+    "Current price": "13.290.000 VND",
+    "Original price": "16.590.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-v15-g4-iru-83a10006vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "13": {
+    "Name": "Laptop Lenovo V15 G4 IRU 83A100F3VN (i5-13420H, RAM 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "13.490.000 VND",
+    "Original price": "14.190.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-v15-g4-iru-83a100f3vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "14": {
+    "Name": "Laptop ASUS Expertbook B1 B1502CVA-NJ0050W (i5-1335U, UHD Graphics, RAM 8GB DDR4, SSD 512GB, 15.6 Inch TN FHD 60Hz)",
+    "Current price": "13.490.000 VND",
+    "Original price": "15.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-expertbook-b1-b1502cva-nj0050w-i5-1335h-uhd-graphics-ram-8gb-ddr4-ssd-512gb-15-6-inch-tn-fhd-60hz",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "15": {
+    "Name": "Laptop Asus ExpertBook B1 B1402CVA-NK0062W (i5-1335U, UHD Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch TN FHD 60Hz, Win 11)",
+    "Current price": "13.490.000 VND",
+    "Original price": "19.590.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-expertbook-b1-b1402cva-nk0062w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "16": {
+    "Name": "Laptop Dell Inspiron 15 3520 N3520-i5U085W11BLU (i5-1235U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 60Hz, Win 11/Office HS 21)",
+    "Current price": "13.790.000 VND",
+    "Original price": "18.790.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-inspiron-15-3520-n3520-i5u085w11blu",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "17": {
+    "Name": "Laptop Asus Vivobook 16 M1605YA-MB303W (Ryzen 7 7730U, Radeon Graphics, Ram 16GB DDR4, SSD 512GB, 16 Inch IPS WUXGA 60Hz)",
+    "Current price": "13.990.000 VND",
+    "Original price": "18.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-16-m1605ya-mb303w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "18": {
+    "Name": "Laptop HP 240 G9 6L1Y2PA (i5-1235U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "13.990.000 VND",
+    "Original price": "18.590.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-240-g9-6l1y2pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "19": {
+    "Name": "Laptop MSI Modern 15 B7M-238VN (Ryzen 7 7730U, Radeon Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "13.990.000 VND",
+    "Original price": "16.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-modern-15-b7m-238vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "20": {
+    "Name": "Laptop MSI Modern 14 C13M-608VN (i5-1335U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 14 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "13.990.000 VND",
+    "Original price": "18.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-modern-14-c13m-608vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "21": {
+    "Name": "Laptop Asus Vivobook 15X OLED M3504YA-L1268W (Ryzen 5 7530U, Radeon Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch OLED FHD 60Hz 100% DCI-P3)",
+    "Current price": "14.690.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15x-oled-m3504ya-l1268w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "22": {
+    "Name": "Laptop Dell Vostro 3420 V4I5702W1 (Core i5-1235U, UHD Graphics, RAM 8GB DDR4, SSD 512GB, 14 Inch WVA FHD 60Hz, Win11/Office HS 21)",
+    "Current price": "14.990.000 VND",
+    "Original price": "16.290.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-vostro-3420-v4i5702w1",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "23": {
+    "Name": "Laptop Acer Aspire 5 A514-56P-562P NX.KHRSV.008 (i5-1335U, UHD Graphics, Ram 8GB LPDDR5, SSD 512GB, 14 Inch IPS WUXGA 60Hz, Win 11)",
+    "Current price": "14.990.000 VND",
+    "Original price": "15.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-acer-aspire-5-a514-56p-562p-nx-khrsv-008",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "24": {
+    "Name": "Laptop Dell Vostro 3520 V3520-i5U165W11GRU-KYHD (i5-1235U, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch WVA FHD 120Hz, Win 11/Office HS 21)",
+    "Current price": "15.290.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-vostro-3520-v3520-i5u165w11gru-kyhd",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "25": {
+    "Name": "Laptop Lenovo Ideapad Slim 3 15ABR8 82XM00EHVN (Ryzen 7 7730U, Radeon Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "15.390.000 VND",
+    "Original price": "16.390.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-3-15abr8-82xm00ehvn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "26": {
+    "Name": "Laptop HP 15s-FQ5144TU 7C0R8PA (i7-1255U, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch FHD 60Hz, Win 11)",
+    "Current price": "15.490.000 VND",
+    "Original price": "22.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-15s-fq5144tu-7c0r8pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "27": {
+    "Name": "Laptop Lenovo Ideapad Slim 3 14IAH8 83EQ0009VN (i5-12450H, UHD Graphics, Ram 16GB LPDDR5, SSD 1TB, 14 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "15.490.000 VND",
+    "Original price": "16.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-3-14iah8-83eq0009vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "28": {
+    "Name": "Laptop Lenovo Ideapad Slim 3 15IAH8 83ER000FVN (i5-12450H, UHD Graphics, RAM 16GB LPDDR5, SSD 1TB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "15.590.000 VND",
+    "Original price": "16.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-3-15iah8-83er000fvn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "29": {
+    "Name": "Laptop Asus Vivobook 14 X1404ZA-NK389W (i7-1255U, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 14 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "15.690.000 VND",
+    "Original price": "17.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-14-x1404za-nk389w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "30": {
+    "Name": "Laptop Asus Vivobook 15 X1504VA-NJ070W (i5-1335U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "15.690.000 VND",
+    "Original price": "17.290.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15-x1504va-nj070w",
+    "Rating": 5,
+    "Rate Count": 2
+  },
+  "31": {
+    "Name": "Laptop Gaming MSI Thin 15 B12UCX-1419VN (i5-12450H, RTX 2050 4GB, RAM 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 144Hz)",
+    "Current price": "15.990.000 VND",
+    "Original price": "17.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-thin-15-b12ucx-1419vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "32": {
+    "Name": "Laptop Gaming Asus TUF Gaming A15 FA506NF-HN005W (Ryzen 5 7535HS, RTX 2050 4GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "15.990.000 VND",
+    "Original price": "19.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-asus-tuf-gaming-a15-fa506nf-hn005w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "33": {
+    "Name": "Laptop Asus Vivobook 15X OLED M3504YA-L1332W (Ryzen 7 7730U, Radeon Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch OLED FHD)",
+    "Current price": "15.990.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15x-oled-m3504ya-l1332w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "34": {
+    "Name": "Laptop Gaming MSI Bravo 15 B7ED-010VN (Ryzen 5 7535HS, RX 6550M 4GB, Ram 16GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "15.990.000 VND",
+    "Original price": "17.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-bravo-15-b7ed-010vn",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "35": {
+    "Name": "Laptop Gaming MSI Cyborg 15 A12UCX-281VN (i5-12450H, RTX 2050 4GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "15.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-cyborg-15-a12ucx-281vn",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "36": {
+    "Name": "Laptop MSI Modern 15 B13M-297VN (i7-1355U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "15.990.000 VND",
+    "Original price": "23.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-modern-15-b13m-297vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "37": {
+    "Name": "Laptop HP Pavilion 15-eg2083TU 7C0W9PA (i5-1240P, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "15.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-pavilion-15-eg2083tu-7c0w9pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "38": {
+    "Name": "Laptop Dell Vostro 15 3530 80GG9 (i5-1335U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch FHD 120Hz, Win11/Office HS 21)",
+    "Current price": "16.290.000 VND",
+    "Original price": "18.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-vostro-15-3530-80gg9",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "39": {
+    "Name": "Laptop HP 15-fd0235TU 9Q970PA (i5-1334U, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch FHD 60Hz)",
+    "Current price": "16.490.000 VND",
+    "Original price": "19.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-15-fd0235tu-9q970pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "40": {
+    "Name": "Laptop ASUS Vivobook 14 OLED A1405ZA-KM264W (i5-12500H, Iris Xe Graphics, RAM 16GB, SSD 512GB, 14 Inch 2.8K OLED 90Hz 100% DCI-P3, Win 11)",
+    "Current price": "16.490.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-14-oled-a1405za-km264w-i5-12500h-iris-xe-graphics-ram-16gb-ssd-512gb-14-inch-2-8k-oled-90hz-100-dci-p3-win-11",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "41": {
+    "Name": "Laptop Lenovo Ideapad Slim 3 15IRH8 83EM003EVN (i7-13620H, UHD Graphics, Ram 16GB LPDDR5, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "17.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-3-15irh8-83em003evn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "42": {
+    "Name": "Laptop Gaming MSI Thin A15 B7UCX-020VN (Ryzen 5 7535HS, RTX 2050 4GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD, Win 11)",
+    "Current price": "16.490.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-thin-a15-b7ucx-020vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "43": {
+    "Name": "Laptop Acer Aspire 5 A515-58M-56YX NX.KQ8SV.005 (i5-13420H, UHD Graphics, Ram 16GB LPDDR5, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "17.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-acer-aspire-5-a515-58m-56yx-nx-kq8sv-005",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "44": {
+    "Name": "Laptop HP 240 G10 8F133PA (i5-1335U, UHD Graphics, Ram 8GB DDR4, SSD 256GB, 14 Inch IPS FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "17.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-240-g10-8f133pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "45": {
+    "Name": "Laptop HP 240 G9 6L1Y5PA (i7-1255U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "22.190.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-240-g9-6l1y5pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "46": {
+    "Name": "(Like New) Laptop Gaming Gigabyte G5 MF-E2VN333SH (i5-12500H, RTX 4050 6GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch 144Hz FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "23.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-gigabyte-g5-mf-e2vn333sh",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "47": {
+    "Name": "Laptop HP Pavilion 15-eg2082TU 7C0Q5PA (i5-1240P, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "18.900.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-pavilion-15-eg2082tu-7c0q5pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "48": {
+    "Name": "Laptop LG Gram 2023 14ZD90R-G.AX52A5 (i5-1340P EVO, Iris Xe Graphics, Ram 8GB LPDDR5, SSD 256GB, 14 Inch IPS WUXGA)",
+    "Current price": "16.490.000 VND",
+    "Original price": "25.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lg-gram-2023-14zd90r-g-ax52a5",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "49": {
+    "Name": "Laptop MSI Modern 14 C13M-607VN (i7-1355U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 14 Inch IPS FHD)",
+    "Current price": "16.490.000 VND",
+    "Original price": "23.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-modern-14-c13m-607vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "50": {
+    "Name": "Laptop Lenovo S14 Gen 3 IAP 82TW002EVN (i7-1255U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD, No OS)",
+    "Current price": "16.790.000 VND",
+    "Original price": "24.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-s14-gen-3-iap-82tw002evn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "51": {
+    "Name": "Laptop Asus Vivobook 15 OLED A1505VA-L1114W (i5-13500H, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch OLED FHD 60Hz)",
+    "Current price": "17.290.000 VND",
+    "Original price": "22.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15-oled-a1505va-l1114w",
+    "Rating": 5,
+    "Rate Count": 2
+  },
+  "52": {
+    "Name": "Laptop Dell Vostro 3430 60YGM (i5-1355U, MX550 2GB, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD 60Hz, Win11/Office HS 21)",
+    "Current price": "17.290.000 VND",
+    "Original price": "23.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-vostro-3430-60ygm",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "53": {
+    "Name": "Laptop Lenovo Thinkbook 14 G6 IRL 21KG00QMVN (i5-13500H, Iris Xe Graphics, RAM 16GB DDR5, SSD 512GB, 14 Inch IPS WUXGA 60Hz, Win 11)",
+    "Current price": "17.490.000 VND",
+    "Original price": "19.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-thinkbook-14-g6-irl-21kg00qmvn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "54": {
+    "Name": "Laptop ASUS Vivobook 14 OLED A1405VA-KM257W (i5-13500H, Iris Xe Graphics, RAM 16GB, SSD 512GB, 14 Inch 2.8K OLED 90Hz 100% DCI-P3, Win 11)",
+    "Current price": "17.490.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-14-oled-a1405va-km257w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "55": {
+    "Name": "Laptop Gaming Asus TUF Gaming A15 FA506NC-HN011W (Ryzen 5 7535HS, RTX 3050 4GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "17.490.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-asus-tuf-gaming-a15-fa506nc-hn011w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "56": {
+    "Name": "Laptop Lenovo Ideapad Slim 3 15IRH8 83EM003FVN (i7-13620H, UHD Graphics, Ram 16GB LPDDR5, SSD 1TB, 15.6 Inch IPS FHD)",
+    "Current price": "17.490.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-3-15irh8-83em003fvn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "57": {
+    "Name": "Laptop HP 240 G10 8F134PA (i5-1335U, UHD Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD)",
+    "Current price": "17.490.000 VND",
+    "Original price": "18.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-240-g10-8f134pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "58": {
+    "Name": "Laptop Gaming MSI Cyborg 15 A12UC-621VN (i5-12450H, RTX 3050 4GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "17.490.000 VND",
+    "Original price": "19.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-cyborg-15-a12uc-621vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "59": {
+    "Name": "Laptop Asus Vivobook 14 OLED A1405VA-KM095W (i5-13500H, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 14 Inch OLED 2.8K 90Hz DCI-P3 100%)",
+    "Current price": "17.490.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-14-oled-a1405va-km095w",
+    "Rating": 4,
+    "Rate Count": 4
+  },
+  "60": {
+    "Name": "Laptop Gaming MSI GF63 Thin 12VE-460VN (i5-12450H, RTX 4050 6GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch 144Hz FHD)",
+    "Current price": "17.790.000 VND",
+    "Original price": "25.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-gf63-thin-12ve-460vn",
+    "Rating": 5,
+    "Rate Count": 4
+  },
+  "61": {
+    "Name": "Laptop Gaming MSI Thin A15 B7UC-026VN (Ryzen 5 7535HS, RTX 3050 4GB, RAM 8GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11)",
+    "Current price": "17.990.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-thin-a15-b7uc-026vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "62": {
+    "Name": "Laptop Lenovo ThinkPad E14 Gen 4 21E300E3VN (i7-1255U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD, Win 11)",
+    "Current price": "17.990.000 VND",
+    "Original price": "27.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-4-21e300e3vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "63": {
+    "Name": "Laptop Gaming Lenovo LOQ 15IAX9 83GS001SVN (i5-12450HX, RTX 2050 4GB, Ram 12GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz 100% sRGB, Win 11)",
+    "Current price": "18.190.000 VND",
+    "Original price": "20.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-lenovo-loq-15iax9-83gs001svn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "64": {
+    "Name": "Laptop Lenovo ThinkPad E14 Gen 5 21JK00H4VA (i5-13420H, UHD Graphics, RAM 16GB DDR4, SSD 512GB, 14 Inch IPS WUXGA 60Hz, Win 11)",
+    "Current price": "18.490.000 VND",
+    "Original price": "19.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-5-21jk00h4va",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "65": {
+    "Name": "Laptop HP Pavilion 15-eg3111TU 8U6L8PA (i5-1335U, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "18.490.000 VND",
+    "Original price": "21.290.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-pavilion-15-eg3111tu-8u6l8pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "66": {
+    "Name": "Laptop Gaming Acer Aspire 5 A515-58GM-598J (i5-13420H, RTX 2050, RAM 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11)",
+    "Current price": "18.490.000 VND",
+    "Original price": "21.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-acer-aspire-5-a515-58gm-598j",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "67": {
+    "Name": "Laptop Gaming MSI Thin 15 B12UC-1416VN (i5-12450H, RTX 3050 4GB, RAM 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 144Hz)",
+    "Current price": "18.490.000 VND",
+    "Original price": "19.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-thin-15-b12uc-1416vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "68": {
+    "Name": "Laptop HP Pavilion 15-eg3093TU 8C5L4PA (i5-1335U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",
+    "Current price": "18.490.000 VND",
+    "Original price": "21.290.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-pavilion-15-eg3093tu-8c5l4pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "69": {
+    "Name": "Laptop Lenovo ThinkPad E14 Gen 5 21JK0069VA (i5-1335U, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 14 Inch IPS WUXGA, Win 11)",
+    "Current price": "18.690.000 VND",
+    "Original price": "22.190.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e14-gen-5-21jk0069va",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "70": {
+    "Name": "Laptop Gaming HP VICTUS 15-fa0115TX 7C0X1PA (i5-12500H, RTX 3050 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "18.690.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-hp-victus-15-fa0115tx-7c0x1pa",
+    "Rating": 5,
+    "Rate Count": 4
+  },
+  "71": {
+    "Name": "Laptop Dell Inspiron 14 5440 N5440-i5U085W11IBU (i5-1334U, UHD Graphics, RAM 8GB DDR5, SSD 512GB, 14 Inch WVA FHD+ 60Hz, Win 11/Office HS 21)",
+    "Current price": "18.790.000 VND",
+    "Original price": "20.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-inspiron-14-5440-n5440-i5u085w11ibu",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "72": {
+    "Name": "Laptop Acer Aspire 5 A515-58P-71EJ (i7-1355U, Iris Xe Graphics, RAM 16GB LPDDR5, SSD 1TB, 15.6 Inch IPS FHD 60Hz, Win 11)",
+    "Current price": "18.990.000 VND",
+    "Original price": "20.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-acer-aspire-5-a515-58p-71ej",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "73": {
+    "Name": "Laptop ASUS Vivobook 15 OLED A1505VA-MA468W (i5-13500H, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch OLED 3K 120Hz 100% DCI-P3)",
+    "Current price": "18.990.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15-oled-a1505va-ma468w-i5-13500h-iris-xe-graphics-ram-16gb-ddr4-ssd-512gb-15-6-inch-oled-3k-120hz-100-dci-p3",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "74": {
+    "Name": "Laptop Gaming HP VICTUS 15-fb1022AX 94F19PA (Ryzen 5 7535HS, RTX 2050 4GB, Ram 16GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "18.990.000 VND",
+    "Original price": "25.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-hp-victus-15-fb1022ax-94f19pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "75": {
+    "Name": "Laptop Gaming MSI Cyborg 15 A13UC-861VN (i5-13420H, RTX 3050 4GB, Ram 16GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "18.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-cyborg-15-a13uc-861vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "76": {
+    "Name": "Laptop Gaming Acer Nitro V ANV15-51-58AN NH.QNASV.001 (i5-13420H, RTX 2050 4GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "18.990.000 VND",
+    "Original price": "21.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-acer-nitro-v-anv15-51-58an-nh-qnasv-001",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "77": {
+    "Name": "Laptop Gaming HP VICTUS 16-e1106AX 7C0T1PA (Ryzen 5 6600H, RTX 3050 Ti 4GB, Ram 8GB DDR5, SSD 512GB, 16.1 Inch IPS 144Hz FHD)",
+    "Current price": "18.990.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-hp-victus-16-e1106ax-7c0t1pa",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "78": {
+    "Name": "Laptop Gaming Asus TUF Gaming F15 FX507ZC4-HN074W (i5-12500H, RTX 3050 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "18.990.000 VND",
+    "Original price": "23.890.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-asus-tuf-gaming-f15-fx507zc4-hn074w",
+    "Rating": 5,
+    "Rate Count": 2
+  },
+  "79": {
+    "Name": "Laptop Gaming MSI Cyborg 15 A12VE-412VN (i5-12450H, RTX 4050 6GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "18.990.000 VND",
+    "Original price": "25.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-cyborg-15-a12ve-412vn",
+    "Rating": 5,
+    "Rate Count": 1
+  },
+  "80": {
+    "Name": "Laptop MSI Summit E14 Flip Evo A12MT-210VN (i7-1280P EVO, Iris Xe graphics, Ram 16GB DDR5, SSD 512GB, 14 Inch QHD+ 60Hz 100% DCI-P3 Touch, Win 11/Office 365 1Y)",
+    "Current price": "18.990.000 VND",
+    "Original price": "39.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-summit-e14-flip-evo-a12mt",
+    "Rating": 5,
+    "Rate Count": 4
+  },
+  "81": {
+    "Name": "Laptop Dell Inspiron 16 5620 N5620-i5P165W11SLU (i5-1240P, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 16 Inch WVA FHD+ 60Hz, Win11/Office HS 21)",
+    "Current price": "19.190.000 VND",
+    "Original price": "24.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-inspiron-16-5620-n5620-i5p165w11slu",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "82": {
+    "Name": "Laptop Dell Inspiron 14 5440 NDY5V1 (i5-1334U, Iris Xe Graphics, RAM 16GB DDR5, SSD 512GB, 14 Inch IPS FHD+ 60Hz, Win 11/Office HS 21)",
+    "Current price": "19.490.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-inspiron-14-5440-ndy5v1",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "83": {
+    "Name": "Laptop Lenovo IdeaPad Slim 5 15IRU9 83D0000EVN (Core 5 120U, Intel Graphics, RAM 16GB LPDDR5X, SSD 512GB, 15.3 Inch IPS WUXGA 60Hz 100% sRGB)",
+    "Current price": "19.490.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-5-15iru9-83d0000evn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "84": {
+    "Name": "Laptop Acer Aspire 5 A515-58M-79R7 (i7-13620H, UHD Graphics, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 60Hz)",
+    "Current price": "19.490.000 VND",
+    "Original price": "20.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-acer-aspire-5-a515-58m-79r7-i7-13620h-uhd-graphics-ram-16gb-ddr5-ssd-512gb-15-6-inch-ips-fhd-60hz",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "85": {
+    "Name": "Laptop HP 15-fd0083TU 8D736PA (i7-1355U,Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 15.6 Inch FHD)",
+    "Current price": "19.690.000 VND",
+    "Original price": "22.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-hp-15-fd0083tu-8d736pa",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "86": {
+    "Name": "Laptop Gaming ASUS TUF Gaming A15 FA506NFR-HN075W (Ryzen 7 7435HS, RTX 2050 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz, Win 11)",
+    "Current price": "19.990.000 VND",
+    "Original price": "23.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-asus-tuf-gaming-a15-fa506nfr-hn075w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "87": {
+    "Name": "Laptop Gaming Lenovo LOQ 15IAX9I 83FQ0005VN (i5-12450HX, Arc A530M 4GB, RAM 16GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz 100% sRGB, Win 11)",
+    "Current price": "19.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-lenovo-loq-15iax9i-83fq0005vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "88": {
+    "Name": "Laptop Asus Vivobook 14X OLED K3405ZF-KM184W (i5-12500H, RTX 2050, Ram 16GB DDR4, SSD 512GB, 14 Inch OLED 2.8K)",
+    "Current price": "19.990.000 VND",
+    "Original price": "25.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-14x-oled-k3405zf-km184w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "89": {
+    "Name": "Laptop ASUS Vivobook 15 OLED A1505VA-MA492W (i7-13700H, Iris Xe Graphics, RAM 16GB DDR4, SSD 512GB, 15.6 Inch OLED 2.8K 120Hz 100% DCI-P3, Win 11)",
+    "Current price": "20.090.000 VND",
+    "Original price": "22.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-asus-vivobook-15-oled-a1505va-ma492w",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "90": {
+    "Name": "Laptop Gaming Lenovo LOQ 15IAX9 83GS001RVN (i5-12450HX, RTX 3050 6GB, RAM 12GB DDR5, SSD 512GB, 15.6 Inch IPS FHD 144Hz 100% sRGB, Win 11)",
+    "Current price": "20.490.000 VND",
+    "Original price": "22.490.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-lenovo-loq-15iax9-83gs001rvn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "91": {
+    "Name": "Laptop Lenovo ThinkPad E16 Gen 1 21JN00FKVA (i5-13500H, UHD Graphics, RAM 16GB DDR5, SSD 512GB, 16 Inch IPS WUXGA 60Hz, Win 11)",
+    "Current price": "20.790.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-thinkpad-e16-gen-1-21jn00fkva",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "92": {
+    "Name": "Laptop Gaming MSI Thin 15 B13UC-1411VN (i7-13620H, RTX 3050 4GB, RAM 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD 144Hz)",
+    "Current price": "20.790.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-thin-15-b13uc-1411vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "93": {
+    "Name": "Laptop MSI Modern 14 H D13MG-217VN (i7-13700H, Iris Xe Graphics, RAM 16GB DDR4, SSD 1TB, 14 Inch IPS FHD+ IPS 60Hz)",
+    "Current price": "20.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-msi-modern-14-h-d13mg-217vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "94": {
+    "Name": "Laptop Lenovo IdeaPad Slim 5 15IRU9 83D00003VN (Core 5 120U, Intel Graphics, RAM 32GB LPDDR5X, SSD 512GB, 15.3 Inch IPS WUXGA 60Hz 100% sRGB)",
+    "Current price": "20.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-5-15iru9-83d00003vn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "95": {
+    "Name": "Laptop Lenovo IdeaPad Slim 5 14IMH9 83DA001NVN (Ultra 5 125H, Arc Graphics, Ram 16GB LPDDR5X, SSD 512GB, 14 Inch OLED WUXGA)",
+    "Current price": "20.990.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-lenovo-ideapad-slim-5-14imh9-83da001nvn",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "96": {
+    "Name": "Laptop Gaming MSI Cyborg 15 A12VE-240VN (i7-12650H, RTX 4050 6GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",
+    "Current price": "20.990.000 VND",
+    "Original price": "26.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-msi-cyborg-15-a12ve-240vn",
+    "Rating": 5,
+    "Rate Count": 5
+  },
+  "97": {
+    "Name": "Laptop Dell Inspiron 15 3530 P16WD (i7-1355U, Iris Xe Graphics, RAM 16GB DDR4, SSD 1TB, 15.6 Inch WVA FHD 120Hz, Win11/Office HS 21)",
+    "Current price": "21.190.000 VND",
+    "Original price": "21.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-inspiron-15-3530-p16wd",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "98": {
+    "Name": "Laptop Gaming Gigabyte G5 MF5-52VN383SH (i5-13500H, RTX 4050 6GB, Ram 8GB DDR5, SSD 512GB, 15.6 Inch 144Hz FHD)",
+    "Current price": "21.290.000 VND",
+    "Original price": "26.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-gaming-gigabyte-g5-mf5-52vn383sh",
+    "Rating": 0,
+    "Rate Count": 0
+  },
+  "99": {
+    "Name": "Laptop Dell Vostro 15 3530 V3530-i7U085W11GRD2 (i7-1355U, MX550 2GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch FHD 120Hz, Win11/Office HS 21)",
+    "Current price": "21.390.000 VND",
+    "Original price": "25.990.000 VND",
+    "Link": "https://memoryzone.com.vn/laptop-dell-vostro-15-3530-v3530-i7u085w11grd2",
+    "Rating": 0,
+    "Rate Count": 0
+  }
+}
