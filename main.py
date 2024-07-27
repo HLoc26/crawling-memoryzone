@@ -77,6 +77,8 @@ def GetItemCollection(link: str) -> Collection:
     for i in range(2, pages_count - 1):
         link = link[:pos+1] + "page=" + str(i) 
         print(link)
+        driver.get(link)
+        sleep(2)
         page = Page(i)
         page.AddItem(GetItemInfoInPage(i))
         collection.AddPage(page)
@@ -97,17 +99,17 @@ def main():
             if link not in link_product:
                 link_product.append(link)
     collections = []
-    for link in link_product[1:2]:
+    for link in link_product[1:]:
         driver.get(link)
         print(link)
         sleep(5)
         link = driver.current_url
         print(link)
         collections.append(GetItemCollection(link))
-    # collection = collections[0]
-    # page = collection.pages[0]
-    # item = page.items[0]
-    # print(item)
+    count = 0
+    for collection in collections:
+        count += collection.GetPageCount()
+    print(count)
 
 if __name__ == "__main__":
     main()
