@@ -11,7 +11,6 @@ class Item:
             original = "Not on discount"
         else:
             original = self.original_price
-        features = '\t'.join(self.feat)
         info =  f"Item name: {self.name}\nCurrent price: {self.curr_price}\n" + \
                 f"Origianl price: {original}\nLink: {self.link}\n" + \
                 f"Rating: {self.rating}\nRate Count: {self.rate_count}\n"
@@ -22,7 +21,6 @@ class Item:
             original = "Not on discount"
         else:
             original = self.original_price
-        features = '\t'.join(self.feat)
         info =  f"\nItem name: {self.name}\nCurrent price: {self.curr_price}\n" + \
                 f"Origianl price: {original}\nLink: {self.link}\n" + \
                 f"Rating: {self.rating}\nRate Count: {self.rate_count}\n"
