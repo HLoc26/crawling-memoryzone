@@ -1,9 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
 from time import sleep
 from PageStructure import Item, Page, Collection
+import pandas as pd
+import unicodedata
+import re
 
 '''define driver'''
 driver = webdriver.Edge()
@@ -16,7 +17,7 @@ def GetText(elems: list) -> list:
         res.append(elem.text)
     return res
 
-def GetItemInfoInPage(page: int) -> list[object]: # [[item1], [item2], [item3]]
+def GetItemInfoInPage(page: int) -> list[object]:
     items = []
     # === Get name ===
     names_elems = driver.find_elements(By.CSS_SELECTOR, ".product-name")
@@ -74,10 +75,14 @@ def GetItemCollection(link: str) -> Collection:
     # Get title
     title = driver.find_element(By.CSS_SELECTOR, ".title_page").text
     collection = Collection(title)
+    print(title)
+    print("Collecting in page 1...", end=' ')
     # Get items on first page
     page1 = Page(1)
     page1.AddItem(GetItemInfoInPage(1))
     collection.AddPage(page1)
+    print("Done")
+    # return collection # For debugging
     # Get items in every other page
     pages = driver.find_elements(By.CSS_SELECTOR, ".page-item")
     pages_count = len(pages) # Count number of pages: get all class .page-item count then - 2 (2 arrows)
@@ -90,13 +95,15 @@ def GetItemCollection(link: str) -> Collection:
         pos+=1
     # Start traversing through pages
     for i in range(2, pages_count - 1):
-        link = link[:pos+1] + "page=" + str(i) 
+        print(f"Collecting in page {i}...", end=' ')
+        link = link[:pos+1] + "page=" + str(i)
         # print(link)
         driver.get(link)
         sleep(2)
         page = Page(i)
         page.AddItem(GetItemInfoInPage(i))
         collection.AddPage(page)
+        print("Done")
     return collection
 
 def GetCollectionLinks() -> list[str]:
@@ -112,25 +119,46 @@ def GetCollectionLinks() -> list[str]:
             link = type.get_attribute("href")
             if link not in link_product:
                 link_product.append(link)
-    return link_product
+    return link_product    
 
+def FormatTitle(title: str) -> str:
+    # Normalize the Unicode string and remove diacritics (accents)
+    normalized = unicodedata.normalize('NFD', title)
+    without_diacritics = ''.join([c for c in normalized if unicodedata.category(c) != 'Mn'])
+    
+    # Convert to lowercase
+    lowercase = without_diacritics.lower()
+    
+    # Replace spaces and special characters with hyphens
+    ret = re.sub(r'[\s/]+', '-', lowercase)
+    
+    # Remove any non-alphanumeric characters except hyphens
+    ret = re.sub(r'[^a-z0-9-]', '', ret)
+    
+    return ret
 
+def ToJSON(collections: list):
+    for collection in collections:
+        title = collection.title
+        # print(title, FormatTitle(title))
+        df = collection.ToDataFrame()
+        with open(f'./JSON/{FormatTitle(title)}.json', 'w', encoding='utf-8') as file:
+            df.to_json(file, force_ascii=False, orient='index')
 
 def main():
     link_collections = GetCollectionLinks()
     collections = []
-    for link in link_collections[1:2]:
+    for link in link_collections[1:]:
         driver.get(link)
         # print(link)
         sleep(5)
         link = driver.current_url
         # print(link)
         collections.append(GetItemCollection(link))
+        ToJSON(collections)
     count = 0
     for collection in collections:
         count += collection.GetPageCount()
-    print(count)
-    print(collections[0].pages[0].items)
 
 if __name__ == "__main__":
     main()
